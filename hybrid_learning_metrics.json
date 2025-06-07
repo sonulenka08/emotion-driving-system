@@ -1,0 +1,26 @@
+{
+    "cv_scores": [
+        0.63,
+        0.65,
+        0.66,
+        0.64,
+        0.65
+    ],
+    "mean_cv_accuracy": 0.646,
+    "std_cv_accuracy": 0.01,
+    "hybrid_performance": {
+        "mean_precision": 0.63,
+        "mean_recall": 0.62,
+        "mean_f1": 0.62,
+        "stability_score": 0.9
+    },
+    "fold_details": [
+        {
+            "fold": 1,
+            "accuracy": 0.63,
+            "precision": 0.62,
+            "recall": 0.61,
+            "f1_score": 0.61
+        }
+    ]
+}

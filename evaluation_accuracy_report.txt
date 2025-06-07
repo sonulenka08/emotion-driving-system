@@ -1,0 +1,17 @@
+Evaluation of model: C:\Users\HP\Desktop\desk\CNN_Model_emotion_trained.h5
+Validation Accuracy Score: 0.6542
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       angry       0.55      0.60      0.57       467
+     disgust       0.66      0.59      0.62        56
+        fear       0.52      0.43      0.47       496
+       happy       0.84      0.86      0.85       895
+     neutral       0.58      0.62      0.60       607
+         sad       0.55      0.53      0.54       653
+    surprise       0.77      0.80      0.78       415
+
+    accuracy                           0.65      3589
+   macro avg       0.64      0.63      0.63      3589
+weighted avg       0.65      0.65      0.65      3589
