@@ -3,7 +3,6 @@ import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import utils
 from tensorflow.keras.models import Sequential
-# from tensorflow.keras import layers # Not directly used, layers are imported individually
 from tensorflow.keras.layers import Conv2D,MaxPooling2D, Dense, Dropout, Flatten, BatchNormalization,Activation
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.optimizers import Adam
